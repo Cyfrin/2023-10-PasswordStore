@@ -57,8 +57,8 @@ A smart contract applicatoin for storing a password. Users should be able to sto
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/3-passwordstore-audit
-cd 3-passwordstore-audit
+git clone https://github.com/Cyfrin/2023-10-PasswordStore
+cd 2023-10-PasswordStore
 forge build
 ```
 
