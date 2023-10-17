@@ -1,10 +1,12 @@
 <br/>
 <p align="center">
-<img src="https://github.com/Cyfrin/2023-10-PasswordStore/blob/main/images/password-store-logo.png?raw=true">
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1697562167/company/mm4xmbdd48iwb7xfsi00.png">
 </p>
 <br/>
 
-# Contest Details
+# First Flight #1: PasswordStore
+
+## Contest Details
 
 ### Prize Pool
 
