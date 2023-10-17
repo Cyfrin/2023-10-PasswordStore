@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1697562167/company/mm4xmbdd48iwb7xfsi00.png">
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/w_0.5,c_scale/v1697562167/company/mm4xmbdd48iwb7xfsi00.png">
 </p>
 <br/>
 
