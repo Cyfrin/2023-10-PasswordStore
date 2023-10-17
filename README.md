@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img src="./images/password-store-logo.png" width="500" alt="puppy-raffle">
+<img src="https://github.com/Cyfrin/2023-10-PasswordStore/blob/main/images/password-store-logo.png?raw=true">
 </p>
 <br/>
 
