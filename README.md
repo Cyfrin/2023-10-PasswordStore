@@ -1,3 +1,13 @@
+# What is a CodeHawks First Flight?
+
+First Flights are 7 days long smart contracts auditing challenges characterised by smaller codebases and different rewards mechanisms from our standard smart contract auditing competitions, making them the perfect testing and learning ground for any aspirant smart contract security auditor.
+
+Every week a new First Flight is announced and will be available on the codehawks.com platform to join for 7 days.
+
+Differently from the CodeHawks smart contract auditing competitions, First Flights do not come with monetary prize pools but grant participants a multiplier on the  earned by submitting findings.
+
+For more information: [CodeHawks Docs](https://docs.codehawks.com/first-flights)
+
 <br/>
 <p align="center">
 <img src="https://res.cloudinary.com/droqoz7lg/image/upload/w_0.5,c_scale/v1697562167/company/mm4xmbdd48iwb7xfsi00.png">
@@ -25,7 +35,7 @@
 
 # PasswordStore
 
-A smart contract applicatoin for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password.
+A smart contract application for storing a password. Users should be able to store a password and then retrieve it later. Others should not be able to access the password.
 
 - [Contest Details](#contest-details)
     - [Prize Pool](#prize-pool)
